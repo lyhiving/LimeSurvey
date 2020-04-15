@@ -28150,8 +28150,8 @@
 	        display: 'none',
 	        top: 8 * this.getCount() + "%",
 	        position: 'fixed',
-	        left: "15%",
-	        width: "70%",
+	        left: "20%",
+	        width: "60%",
 	        'z-index': 3500
 	      }).appendTo($('#notif-container').parent()).html(container); // using the option inAnimation as funtion of jquery
 
